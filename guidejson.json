@@ -49,7 +49,7 @@
       "state" : "free",
       "title" : "dadamou",
       "description" : "",
-      "written" : "Test written 0 <br>My written"
+      "written" : "<p>test</p><p>test2</p>"
     },
     {
       "id" : 1,
